@@ -1,7 +1,7 @@
 <?php
 
 // Array (variable yang bisa menyimpan nilai lebih dari 1 )
-$mahasiswa = ['fauzan', 'fayruz', 'dimas'];
+$mahasiswa = ['Nisa', 'Ahmad', 'Rika'];
 
 // cara print
 echo $mahasiswa[0];
@@ -19,9 +19,9 @@ foreach ($mahasiswa as $mhs){
 
 // array multi dimensi
 $datadiri = [
-    ["nama" => "fauzan", "nim" => "0110221234", "uts" => 100, "uas" => 100],
-    ["nama" => "fayruz", "nim" => "0110221235", "uts" => 90, "uas" => 90],
-    ["nama" => "dimas", "nim" => "0110221236", "uts" => 80, "uas" => 80]
+    ["nama" => "Nisa", "nim" => "0110221237", "uts" => 100, "uas" => 100],
+    ["nama" => "Ahmad", "nim" => "0110221238", "uts" => 90, "uas" => 90],
+    ["nama" => "Rika", "nim" => "0110221239", "uts" => 80, "uas" => 80]
 ];
 
 // print array multi dimensi
