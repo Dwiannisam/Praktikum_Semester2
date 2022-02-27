@@ -1,9 +1,9 @@
 <?php 
     $nama = 'Nisa';
-    $umur = 20;
+    $umur = 19;
     $berat = 36;
 
-    $nama = 'fayruz';
+    $nama = 'ahmad';
     echo 'Nama Saya '.$nama.'<br>Umur Saya '.$umur.'<br>Berat Saya '.$berat;
 
     echo "<br>Nama Saya $nama <br>Umur Saya $umur <br>Berat Saya $berat";
