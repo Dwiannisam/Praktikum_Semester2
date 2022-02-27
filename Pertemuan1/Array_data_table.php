@@ -1,8 +1,8 @@
 <?php
 $mahasiswa = [
-    ["id" => 1, "nama" => "fauzan", "nim" => "0110221234", "uts" => 100, "uas" => 100],
-    ["id" => 2, "nama" => "fauzan", "nim" => "0110221234", "uts" => 100, "uas" => 100],
-    ["id" => 3, "nama" => "fauzan", "nim" => "0110221234", "uts" => 100, "uas" => 100]
+    ["id" => 1, "nama" => "Nisa", "nim" => "0110221237", "uts" => 100, "uas" => 100],
+    ["id" => 2, "nama" => "Nisa", "nim" => "0110221237", "uts" => 100, "uas" => 100],
+    ["id" => 3, "nama" => "Nisa", "nim" => "0110221237", "uts" => 100, "uas" => 100]
 ];
 ?>
 <!DOCTYPE html>
